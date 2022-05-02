@@ -1,0 +1,198 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Amazon Automation",
+    "line": 1,
+    "id": "amazon-automation",
+    "tags": [],
+    "uri": "features\\file.feature",
+    "elements": [
+      {
+        "id": "amazon-automation;to-search-\"nvidia-3060\"",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "To search \"nvidia 3060\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Navigate to the webpage",
+            "match": {
+              "location": "features\\support\\steps.js:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30021000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I am on the page",
+            "match": {
+              "location": "features\\support\\steps.js:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 14000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "I provide the \"nvidia 3060\" in searchbar",
+            "match": {
+              "location": "features\\support\\steps.js:56"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 686000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "capture first 3 values",
+            "match": {
+              "location": "features\\support\\steps.js:61"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2084000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "amazon-automation;to-search-\"nvidia-3070\"",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "To search \"nvidia 3070\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Navigate to the webpage",
+            "match": {
+              "location": "features\\support\\steps.js:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30010000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I am on the page",
+            "match": {
+              "location": "features\\support\\steps.js:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "I provide the \"nvidia 3070\" in searchbar",
+            "match": {
+              "location": "features\\support\\steps.js:56"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 567000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "capture first 3 values",
+            "match": {
+              "location": "features\\support\\steps.js:61"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 669000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "amazon-automation;to-search-\"nvidia-3080\"",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "To search \"nvidia 3080\"",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Navigate to the webpage",
+            "match": {
+              "location": "features\\support\\steps.js:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30012000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I am on the page",
+            "match": {
+              "location": "features\\support\\steps.js:49"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 7000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "I provide the \"nvidia 3080\" in searchbar",
+            "match": {
+              "location": "features\\support\\steps.js:56"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 565000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "capture first 3 values",
+            "match": {
+              "location": "features\\support\\steps.js:61"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 993000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
